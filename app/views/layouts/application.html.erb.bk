@@ -7,15 +7,6 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
-    <script src="//code.jquery.com/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.min.js"></script>
-
-    <br>
-    <br>
-    <br>
-
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
