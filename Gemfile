@@ -19,6 +19,7 @@ gem 'bootstrap-sass'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'font-awesome-rails'
+gem 'acts-as-taggable-on'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
